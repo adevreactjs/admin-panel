@@ -36,7 +36,7 @@ const Sidebar = () => {
           <p className='title'>List</p>
           <li>
             <PersonIcon className='icon' />
-            <Link to='/admin-panel/users' style={{ textDecoration: 'none' }}>
+            <Link to='users' style={{ textDecoration: 'none' }}>
               <span>Users</span>
             </Link>
           </li>

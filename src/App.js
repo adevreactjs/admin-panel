@@ -19,7 +19,7 @@ function App() {
           <Route path='/admin-panel'>
             <Route index element={<Home />} />
             <Route path='login' element={<Login />} />
-            <Route path='admin-panel/users'>
+            <Route path='users'>
               <Route index element={<List />} />
               <Route path=':userId' element={<Single />} />
               <Route path='new' element={<New inputs={userInputs} title='Add New User' />} />
