@@ -1,8 +1,8 @@
 {
-  "homepage": "https://adevreactjs.github.io/admin-panel",
   "name": "admin-panel",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://adevreactjs.github.io/admin-panel",
   "dependencies": {
     "@emotion/react": "^11.10.0",
     "@emotion/styled": "^11.10.0",
